@@ -1,0 +1,48 @@
+.navbar-brand{
+    font-family: 'Roboto';
+    font-size: 35px;
+    font-weight: bold;
+}
+
+.col-lg-12 h1{
+    font-family: 'Roboto';
+    font-size: 25px;
+    font-weight: bold;
+}
+
+.nav a{
+    font-family: 'Roboto';
+    font-size: 20px;
+    font-weight: bold;
+}
+
+.col-lg-8 p{
+    font-family: 'Roboto';
+    font-size: 20px;
+}
+
+.col-lg-12 label{
+    font-family: 'Roboto';
+    font-size: 20px;
+    font-weight: bold;
+}
+
+.col-lg-4 img{
+    width: 200px;
+    height: 200px;
+}
+
+.col-lg-6 img{
+    width: 200px;
+    height: 200px;
+}
+
+.col-lg-6 h1{
+    font-family: 'Roboto';
+    font-size: 20px;
+    font-weight: bold;
+}
+
+.tag a{
+    font-size: 25;
+}
